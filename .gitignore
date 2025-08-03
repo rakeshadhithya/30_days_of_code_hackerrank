@@ -1,0 +1,16 @@
+# Bytecode cache
+__pycache__/
+*.py[cod]
+
+# Environment
+.venv/
+env/
+*.env
+
+# IDEs and OS junk
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Logs or temp
+*.log
