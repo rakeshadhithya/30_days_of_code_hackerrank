@@ -1,7 +1,7 @@
 '''
 DAY2:
 Problem: Arithmetic operations and round
-#!/bin/python3
+Link: https://www.hackerrank.com/challenges/30-operators/problem?isFullScreen=true
 '''
 
 import math
