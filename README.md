@@ -16,9 +16,10 @@ Each file is named as `dayXX_topic.py`, where:
 
 ## Daily Progress
 
-| Date       | Challenge Name | File                              |
-| ---------- | -------------- | --------------------------------- |
-| 2025-08-01 | Hello World    | `day00_hello_world.py`            |
-| 2025-08-02 | Data Types     | `day01_data_types.py`             |
-| 2025-08-03 | Operators      | `day02_operators.py`              |
-| 2025-08-04 | Conditionals   | `day03_conditional_statements.py` |
+| Date       | Challenge Name    | File                              |
+| ---------- | ----------------- | --------------------------------- |
+| 2025-08-01 | Hello World       | `day00_hello_world.py`            |
+| 2025-08-02 | Data Types        | `day01_data_types.py`             |
+| 2025-08-03 | Operators         | `day02_operators.py`              |
+| 2025-08-04 | Conditionals      | `day03_conditional_statements.py` |
+| 2025-08-04 | Class vs Instance | `day04_class_vs_instance.py`      |
