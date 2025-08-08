@@ -22,5 +22,7 @@ Each file is named as `dayXX_topic.py`, where:
 | 2025-08-02 | Data Types        | `day01_data_types.py`             |
 | 2025-08-03 | Operators         | `day02_operators.py`              |
 | 2025-08-04 | Conditionals      | `day03_conditional_statements.py` |
-| 2025-08-04 | Class vs Instance | `day04_class_vs_instance.py`      |
-| 2025-08-05 | Loops             | `day05_loops.py`                  |
+| 2025-08-05 | Class vs Instance | `day04_class_vs_instance.py`      |
+| 2025-08-06 | Loops             | `day05_loops.py`                  |
+| 2025-08-07 | Review Loops      | `day06_review_loops.py`           |
+| 2025-08-08 | Arrays            | `day07_arrays.py`                 |
