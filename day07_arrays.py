@@ -1,6 +1,6 @@
 '''
-DAY5:
-PROBLEM: Review LOOPS 
+DAY07:
+PROBLEM: Arrays
 LINK: https://www.hackerrank.com/challenges/30-arrays/problem?isFullScreen=true
 '''
 

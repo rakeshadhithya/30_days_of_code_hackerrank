@@ -1,5 +1,5 @@
 '''
-DAY3:
+DAY03:
 PROBLEM: CONDITIONAL STATEMENTS
 LINK: https://www.hackerrank.com/challenges/30-conditional-statements/problem?isFullScreen=true
 '''

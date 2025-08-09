@@ -1,5 +1,5 @@
 '''
-DAY5:
+DAY05:
 PROBLEM: LOOPS
 LINK: https://www.hackerrank.com/challenges/30-loops/problem?isFullScreen=true
 '''

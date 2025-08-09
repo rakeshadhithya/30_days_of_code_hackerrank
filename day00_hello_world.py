@@ -1,5 +1,5 @@
 '''
-DAY0:
+DAY00:
 Problem: Hello World
 Link: https://www.hackerrank.com/challenges/30-hello-world/problem?isFullScreen=true
 '''

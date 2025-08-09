@@ -1,5 +1,5 @@
 '''
-DAY1:
+DAY01:
 Problem: Data Types 
 Link: https://www.hackerrank.com/challenges/30-data-types/problem?isFullScreen=true
 '''

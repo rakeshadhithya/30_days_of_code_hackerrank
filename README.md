@@ -26,3 +26,4 @@ Each file is named as `dayXX_topic.py`, where:
 | 2025-08-06 | Loops             | `day05_loops.py`                  |
 | 2025-08-07 | Review Loops      | `day06_review_loops.py`           |
 | 2025-08-08 | Arrays            | `day07_arrays.py`                 |
+| 2025-08-09 | Dictonaries       | `day08_dictionaries_and_maps.py`  |

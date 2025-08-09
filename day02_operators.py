@@ -1,5 +1,5 @@
 '''
-DAY2:
+DAY02:
 Problem: Arithmetic operations and round
 Link: https://www.hackerrank.com/challenges/30-operators/problem?isFullScreen=true
 '''

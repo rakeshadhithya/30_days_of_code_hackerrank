@@ -1,5 +1,5 @@
 '''
-DAY5:
+DAY06:
 PROBLEM: Review LOOPS 
 LINK: https://www.hackerrank.com/challenges/30-review-loop/problem?isFullScreen=true
 '''

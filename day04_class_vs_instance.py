@@ -1,5 +1,5 @@
 '''
-DAY4:
+DAY04:
 PROBLEM: CLASS VS INSTANCE
 LINK: https://www.hackerrank.com/challenges/30-class-vs-instance/problem
 '''
