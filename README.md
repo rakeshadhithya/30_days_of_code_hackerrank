@@ -28,3 +28,4 @@ Each file is named as `dayXX_topic.py`, where:
 | 2025-08-08 | Arrays            | `day07_arrays.py`                 |
 | 2025-08-09 | Dictonaries       | `day08_dictionaries_and_maps.py`  |
 | 2025-08-10 | Recursion         | `day09_recursion.py`              |
+| 2025-08-11 | Binary Numbers    | `day10_binary_numbers.py`         |
