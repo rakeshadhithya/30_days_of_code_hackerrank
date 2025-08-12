@@ -1,5 +1,5 @@
 '''
-DAY8:
+DAY08:
 PROBLEM: Dictionaries and Maps 
 LINK: https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem?isFullScreen=true
 '''

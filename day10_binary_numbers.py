@@ -1,5 +1,5 @@
 '''
-DAY8:
+DAY10:
 PROBLEM: Find maximum 1's in binary equivalent of given integer
 LINK: https://www.hackerrank.com/challenges/30-binary-numbers/problem
 '''
