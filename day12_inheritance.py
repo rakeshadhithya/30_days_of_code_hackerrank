@@ -1,3 +1,9 @@
+'''
+DAY12:
+PROBLEM: Create the child class and write constructor and a calculate method
+LINK: https://www.hackerrank.com/challenges/30-inheritance/problem?isFullScreen=true
+'''
+
 class Person:
 	def __init__(self, firstName, lastName, idNumber):
 		self.firstName = firstName
