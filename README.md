@@ -32,3 +32,4 @@ Each file is named as `dayXX_topic.py`, where:
 | 2025-08-12 | 2D Arrays         | `day11_2d_arrays.py`              |
 | 2025-08-13 | Inheritance       | `day12_inheritance.py`            |
 | 2025-08-14 | Abstract Class    | `day13_abstract_class.py`         |
+| 2025-08-15 | Scope             | `day14_scope.py`                  |
