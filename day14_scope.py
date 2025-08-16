@@ -1,5 +1,5 @@
 '''
-DAY13:
+DAY14:
 PROBLEM: understand the scope of variables in class and method, use this or self to avoid confusion
 LINK: https://www.hackerrank.com/challenges/30-scope/problem?isFullScreen=true
 '''
