@@ -34,5 +34,6 @@ Each file is named as `dayXX_topic.py`, where:
 | 2025-08-14 | Abstract Class         | `day13_abstract_class.py`               |
 | 2025-08-15 | Scope                  | `day14_scope.py`                        |
 | 2025-08-16 | Linked List            | `day15_linked_list.py`                  |
-| 2025-08-17 | Exception(catch)       | `day16_exceptions_string_to_integer.py` |
-| 2025-08-18 | More Exceptions(throw) | `day17_more_exceptions.py`              |
+| 2025-08-17 | Exception(except)      | `day16_exceptions_string_to_integer.py` |
+| 2025-08-18 | More Exceptions(raise) | `day17_more_exceptions.py`              |
+| 2025-08-19 | Queues and Stacks      | `day18_queues_stacks.py`                |
