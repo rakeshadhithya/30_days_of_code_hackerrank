@@ -37,4 +37,5 @@ Each file is named as `dayXX_topic.py`, where:
 | 2025-08-17 | Exception(except)      | `day16_exceptions_string_to_integer.py` |
 | 2025-08-18 | More Exceptions(raise) | `day17_more_exceptions.py`              |
 | 2025-08-19 | Queues and Stacks      | `day18_queues_stacks.py`                |
-| 2025-08-20 | Interfaces             | `day_19_interfaces.py`                  |
+| 2025-08-20 | Interfaces             | `day19_interfaces.py`                   |
+| 2025-08-21 | Sorting                | `day20_sorting.py`                      |
