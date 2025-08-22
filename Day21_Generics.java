@@ -26,6 +26,7 @@ class Printer <T> {
 public class Day21_Generics {
     
     public static void main(String args[]){
+        @SuppressWarnings("resource")
         Scanner scanner = new Scanner(System.in);
         int n = scanner.nextInt();
         Integer[] intArray = new Integer[n];
