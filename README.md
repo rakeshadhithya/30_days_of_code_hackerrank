@@ -40,5 +40,6 @@ Each file is named as `dayXX_topic.py`, where:
 | 2025-08-20 | Interfaces             | `day19_interfaces.py`                   |
 | 2025-08-21 | Sorting                | `day20_sorting.py`                      |
 | 2025-08-22 | Generics               | `Day21_Generics.java`                   |
-| 2025-08-23 | Binary Search Tree     | `day_22_binary_search_tree.py`          |
-| 2025-08-24 | Binary Tree            | `day_23_binary_tree.py`                 |
+| 2025-08-23 | Binary Search Tree     | `day22_binary_search_tree.py`           |
+| 2025-08-24 | Binary Tree            | `day23_binary_tree.py`                  |
+| 2025-08-25 | Linked List            | `day24_linked_list_deletion.py`         |
