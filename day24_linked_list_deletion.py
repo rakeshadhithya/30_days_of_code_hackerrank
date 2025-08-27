@@ -1,5 +1,5 @@
 '''
-DAY22:
+DAY24:
 PROBLEM: delete duplicate elements from the linked list
 LINK: https://www.hackerrank.com/challenges/30-linked-list-deletion/problem?isFullScreen=true
 '''
