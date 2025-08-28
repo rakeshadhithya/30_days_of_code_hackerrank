@@ -44,3 +44,5 @@ Each file is named as `dayXX_topic.py`, where:
 | 2025-08-24 | Binary Tree            | `day23_binary_tree.py`                  |
 | 2025-08-25 | Linked List            | `day24_linked_list_deletion.py`         |
 | 2025-08-26 | Running Time           | `day25_running_time.py`                 |
+| 2025-08-27 | Nested Logic           | `day26_nested_logic.py`                 |
+| 2025-08-28 | Testing                | `day27_testing.py`                      |
