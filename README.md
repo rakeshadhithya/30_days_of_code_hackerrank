@@ -47,3 +47,4 @@ Each file is named as `dayXX_topic.py`, where:
 | 2025-08-27 | Nested Logic           | `day26_nested_logic.py`                 |
 | 2025-08-28 | Testing                | `day27_testing.py`                      |
 | 2025-08-29 | Regex Patterns         | `day28_regex_patterns.py`               |
+| 2025-08-30 | Bitwise AND            | `day30_bitwise_and.py`                  |
